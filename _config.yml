@@ -102,7 +102,7 @@ analytics:
 # Site Author
 author:
   name             : "Sarang Kim"
-  avatar           : "minimal-mistakes-master\assets\image\profile_image.jpg"
+  avatar           : "assets\image\profile_image.jpg"
   bio              : "Hello!"
   location         : "South Korea"
   email            :
