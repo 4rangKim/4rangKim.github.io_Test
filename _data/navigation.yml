@@ -8,5 +8,5 @@ main:
     url: /tag-archive/
   - title: "Post"
     url: /year-archive/
-   - title: "Portfolio"
+  - title: "Portfolio"
     url: /portfolio-archive/
