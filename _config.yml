@@ -23,7 +23,7 @@ name                     : "4rangKim"
 description              : "sarang's github blog"
 url                      : "https://4rangKim.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+repository               : "4rangKim/4rangKim.github.io"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : "assets/image/logo.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
@@ -102,7 +102,7 @@ analytics:
 # Site Author
 author:
   name             : "Sarang Kim"
-  avatar           : # "assets\image\profile_image.jpg"
+  avatar           : "assets\image\profile_image.jpg"
   bio              : "Hello!"
   location         : "South Korea"
   email            :
