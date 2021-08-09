@@ -1,12 +1,12 @@
 # main links
 main:
-  - title: "Categories"
-    url: /category-archive/
   - title: "About"
     url: /about/
-  - title: "tag"
+  - title: "Categories"
+    url: /category-archive/
+  - title: "Tag"
     url: /tag-archive/
-  - title: "post"
+  - title: "Post"
     url: /year-archive/
-  # - title: "Sitemap"
-  #   url: /sitemap/
+   - title: "Portfolio"
+    url: /portfolio-archive/
