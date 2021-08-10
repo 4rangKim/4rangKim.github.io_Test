@@ -13,8 +13,8 @@ author_profile: true
         
         <li>
             <h3>
-                <a href="/2020/nodejs/nodejs-global-undefined">한국사능력검정시험</a>
-                <small>04 Aug 2020</small>
+                <a href="_pages\Korean-History-Proficiency-Tes.md">한국사능력검정시험</a>
+                <small>04 Aug 2021</small>
             </h3>
         </li>
     <h1 class="category-title"><a href="_categories\BigdataIoTClass">Bigdat_Iot Class</a></h1>
@@ -22,7 +22,7 @@ author_profile: true
         
         <li>
             <h3>
-                <a href="/2020/nodejs/nodejs-global-undefined">Oracle</a>
+                <a href="_pages\Oracle.md">Oracle</a>
                 <small>04 Aug 2020</small>
             </h3>
         </li>
