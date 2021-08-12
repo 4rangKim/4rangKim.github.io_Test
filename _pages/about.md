@@ -3,6 +3,7 @@ permalink: /about/
 title: "About"
 excerpt: "about.md"
 toc: true
-tags: [About]
+tags: 
+     - About
 ---
-쓸 내용들
+Sarang 블로그 
