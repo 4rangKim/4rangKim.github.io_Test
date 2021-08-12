@@ -2,11 +2,11 @@
 main:
   - title: "About"
     url: /about/
-  - title: "Categories"
-    url: /category-archive/
-  - title: "Tag"
-    url: /tag-archive/
   - title: "Post"
-    url: /year-archive/
+    url: /category-archive/
+  #- title: "Tag"
+  #  url: /tag-archive/
+  #- title: "Post"
+  #  url: /year-archive/
   - title: "Portfolio"
     url: /portfolio-archive/
